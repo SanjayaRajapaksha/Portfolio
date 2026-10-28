@@ -27,4 +27,5 @@ dist-ssr
 
 # vscode
 .vscode
-src/asserts
+# Ignore assets folder
+src/assets/
